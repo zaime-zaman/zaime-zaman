@@ -1,6 +1,6 @@
 <!-- EXECUTIVE BANNER - Full width with gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Zaeem%20Zaman&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%2072x%20Certified&descSize=20&descAlignY=65" width="100%" alt="Executive Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Zaeem%20Zaman&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%2072+%20Certified&descSize=20&descAlignY=65" width="100%" alt="Executive Banner"/>
 </p>
 
 <!-- QUICK IDENTITY CARD - Modern glassmorphism style -->
